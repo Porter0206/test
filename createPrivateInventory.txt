@@ -1,0 +1,2 @@
+inventory_loc=/home/amdpr1/Desktop/weblogic_test/silent/privOraInv.loc
+inst_group=amdpr1 wheel docker
