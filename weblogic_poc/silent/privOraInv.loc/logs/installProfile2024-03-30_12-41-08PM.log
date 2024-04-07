@@ -1,0 +1,39 @@
+Copyright (c) 1996, 2020, Oracle and/or its affiliates. All rights reserved.
+#This is the time taken for the interview/data collection phase.
+Interview Time : 8 seconds.
+#Time taken to copy files to the machine
+Install Time : 15 seconds.
+#Time taken to link files on the machine. This is not applicable to Windows Systems.
+Link Time : 0 seconds.
+#Time taken to configure the product.
+Configuration Time : 0 seconds.
+#This is the time taken to complete the full install session.
+Session Time : 58 seconds.
+#Operating System on the machine
+Operating System : Linux
+#Processor on the machine
+Processor Architecture : amd64
+#The cycle speed of the CPU
+CPU Speed : 2208.000 MHz
+#This is the number of CPUs available to the installer's JVM
+CPU Number : 1 Processors.
+#This is the total RAM on the system
+Total Memory : 7602 MB.
+#RAM available to the installer's JVM during the install session.
+Available Memory : 375 MB.
+#Available Swap space on this machine when installer started
+Available Swap Space : 7987 MB.
+#Maximum number of threads at any given instance during this install session.
+Peak Thread Count : 10 Threads.
+#Installation Directory
+Oracle Home : /home/amdpr1/Desktop/weblogic_poc/silent/Oracle/Middleware/Oracle_Home
+#Indicates SILENT or GUI mode install type.
+Install Mode : SILENT
+#Total size of files copied on the machine by the installer
+Oracle Home Size : 0.7619705721735954 GB.
+#The location of the shiphome
+Installed From : ../stage/products.xml
+#Time taken to remove files from the machine
+Deinstall Time : 0 seconds.
+
+

@@ -1,0 +1,7 @@
+[ENGINE]
+
+Response File Version=1.0.0.0.0
+
+[GENERIC]
+ORACLE_HOME=/home/amdpr1/Desktop/weblogic_poc/silent/Oracle/Middleware/Oracle_Home
+INSTALL_TYPE=WebLogic Server
