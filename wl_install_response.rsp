@@ -1,8 +1,0 @@
-[ENGINE]
-Response File Version=1.0.0.0.0
-[GENERIC]
-DECLINE_AUTO_UPDATES=true
-INSTALL_TYPE=WebLogic Server
-BEAHOME=/home/amdpr1/Desktop/weblogic_test/silent/Oracle_Home
-JAVA_HOME=/home/amdpr1/Desktop/weblogic_test/jdk1.8.0_202
-
